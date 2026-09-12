@@ -1,35 +1,17 @@
-# openblock-gui
+# gui
 
-**OpenBlock GUI is a set of React components that comprise the interface for creating and running OpenBlock projects**
+**GUI is a set of React components that comprise the interface for creating and running TurboWrap projects**
 
-## Try OpenBlock Online
+## Try it Online
 
-OpenBlock Online: [https://openblockcc.github.io/openblock-gui/develop/](https://openblockcc.github.io/openblock-gui/develop/)
+TurboWrap Online: [https://play.turbowrap.cc](https://play.turbowrap.cc)
 
 ![screenshot1](./docs/screenshot1.png)
 ![screenshot2](./docs/screenshot2.png)
 
 ## Getting Start
 
-Visit the wiki: [https://wiki.openblock.cc](https://wiki.openblock.cc)
-
-## Join chat
-
-- Gitter: [https://gitter.im/openblockcc/community](https://gitter.im/openblockcc/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
-- QQ 群 (for chinese): 933484739
-
-## Donate
-
-Buy me a cup of coffee.
-
-- Ko-fi (PayPal):
-
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X66DATO)
-
-- 支付宝:
-
-    ![alipayQRCode](./docs/alipayQRCode.png)
+check the site on desktop.turbowrap.cc.
 
 ## Bug Report
 
